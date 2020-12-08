@@ -10,9 +10,4 @@
 
 - Execute the notepad executable using **./notepad_exe**
 
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="demo/notepad.mp4" type="video/mp4">
-  </video>
-</figure>
+![](demo/notepad.gif)
